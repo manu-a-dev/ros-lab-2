@@ -1,5 +1,7 @@
 # WWU CSCI 497F / 597F Lab 2
 
+Testing
+
 ## Goals
 
 1. Become familiar with the basic functionality of ROS2 and Gazebo, an open source 3D physics simulator.
