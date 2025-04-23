@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/models
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/models/diff_drive
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.sdf
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/models/diff_drive/model.config
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.dsv
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/environment/ros_gz_description.sh
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ament_index/resource_index/package_run_dependencies/ros_gz_description
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ament_index/resource_index/parent_prefix_path/ros_gz_description
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.sh
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/environment/ament_prefix_path.dsv
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/environment/path.sh
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/environment/path.dsv
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/local_setup.bash
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/local_setup.sh
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/local_setup.zsh
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/local_setup.dsv
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/package.dsv
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ament_index/resource_index/packages/ros_gz_description
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig.cmake
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/cmake/ros_gz_descriptionConfig-version.cmake
+-- Installing: /home/atwalm/cs_classes/robotics/ros-lab-2/install/ros_gz_description/share/ros_gz_description/package.xml

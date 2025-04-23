@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: py-pubsub
+Version: 0.0.0
+Summary: gazebor
+Maintainer: atwalm
+Maintainer-email: atwalm@wwu.edu
+License: Apache-2.0
+License-File: LICENSE
